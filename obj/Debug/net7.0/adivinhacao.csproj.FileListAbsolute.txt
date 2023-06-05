@@ -1,0 +1,15 @@
+C:\Cursos\adivinhacao\bin\Debug\net7.0\adivinhacao.exe
+C:\Cursos\adivinhacao\bin\Debug\net7.0\adivinhacao.deps.json
+C:\Cursos\adivinhacao\bin\Debug\net7.0\adivinhacao.runtimeconfig.json
+C:\Cursos\adivinhacao\bin\Debug\net7.0\adivinhacao.dll
+C:\Cursos\adivinhacao\bin\Debug\net7.0\adivinhacao.pdb
+C:\Cursos\adivinhacao\obj\Debug\net7.0\adivinhacao.csproj.AssemblyReference.cache
+C:\Cursos\adivinhacao\obj\Debug\net7.0\adivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\adivinhacao\obj\Debug\net7.0\adivinhacao.AssemblyInfoInputs.cache
+C:\Cursos\adivinhacao\obj\Debug\net7.0\adivinhacao.AssemblyInfo.cs
+C:\Cursos\adivinhacao\obj\Debug\net7.0\adivinhacao.csproj.CoreCompileInputs.cache
+C:\Cursos\adivinhacao\obj\Debug\net7.0\adivinhacao.dll
+C:\Cursos\adivinhacao\obj\Debug\net7.0\refint\adivinhacao.dll
+C:\Cursos\adivinhacao\obj\Debug\net7.0\adivinhacao.pdb
+C:\Cursos\adivinhacao\obj\Debug\net7.0\adivinhacao.genruntimeconfig.cache
+C:\Cursos\adivinhacao\obj\Debug\net7.0\ref\adivinhacao.dll
